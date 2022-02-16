@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 title: EVCO
 uid: 4920ed81-908c-1194-97a3-6b08f6b53d17

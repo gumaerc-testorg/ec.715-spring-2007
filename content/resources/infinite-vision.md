@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ' [Lecture notes (PDF)](resources/mitec_715s07_notes08)'
+resource_index_text: ''
 resourcetype: Video
 title: Infinite Vision - Dr. Govindappa Venkataswamy
 uid: afab3fc6-30cd-5eb7-b2dd-e3bba23b8420

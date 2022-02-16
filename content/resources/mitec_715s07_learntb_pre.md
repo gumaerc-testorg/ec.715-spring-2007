@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding learnTB.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/82312dfc7e9a4a854bb66d23a777307f_MITEC_715S07_learntb_pre.pdf
+file: /media/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/82312dfc7e9a4a854bb66d23a777307f_MITEC_715S07_learntb_pre.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: LearnTB Presentation
 uid: 82312dfc-7e9a-4a85-4bb6-6d23a777307f

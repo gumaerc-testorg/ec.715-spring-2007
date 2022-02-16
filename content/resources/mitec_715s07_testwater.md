@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding test water.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/e57a5abc146be57c8fad4975516d8077_MITEC_715S07_testwater.pdf
+file: /media/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/e57a5abc146be57c8fad4975516d8077_MITEC_715S07_testwater.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Test Water
 uid: e57a5abc-146b-e57c-8fad-4975516d8077

@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding sustainable
   shelters.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/ce888de2498ab034b1d90a8bc8db14a1_MITEC_715S07_sustnablshl.pdf
+file: /media/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/ce888de2498ab034b1d90a8bc8db14a1_MITEC_715S07_sustnablshl.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Sustainable Shelters
 uid: ce888de2-498a-b034-b1d9-0a8bc8db14a1

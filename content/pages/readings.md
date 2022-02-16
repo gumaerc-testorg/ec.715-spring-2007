@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: eab3e808-fb7b-450e-f133-e1ac6dae6f05
 ---
@@ -210,7 +213,7 @@ Massachusetts Technology Collaborative. "Meeting the Needs of Technology Entrepr
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -255,7 +258,7 @@ Mauro Nunez links/project ([PDF]({{< baseurl >}}/resources/mitec_715s07_mauro))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 16
 {{< tdclose >}}
 {{< tdopen >}}

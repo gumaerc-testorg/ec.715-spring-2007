@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 title: LearnTB
 uid: 3e899b4b-8b1a-6919-9be1-8e676180842b

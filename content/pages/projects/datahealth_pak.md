@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 title: DataHealth Pakistan
 uid: 5c7181fb-d65a-af99-3b82-8352454c8be2

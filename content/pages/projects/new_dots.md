@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 title: New DOTS
 uid: 2de9803c-7a24-b0a8-69ee-8ff0229d397c

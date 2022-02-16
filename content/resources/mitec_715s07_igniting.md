@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding final report
   draft.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/57c0e5d9bbeebd982101772fe418a745_MITEC_715S07_igniting.pdf
+file: /media/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/57c0e5d9bbeebd982101772fe418a745_MITEC_715S07_igniting.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Final Report Draft V7.
 uid: 57c0e5d9-bbee-bd98-2101-772fe418a745

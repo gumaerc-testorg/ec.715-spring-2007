@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding DOI, chapter
   1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/e43b19c86392bb7421cc1b39625e4500_MITEC_715S07_lec2b.pdf
+file: /media/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/e43b19c86392bb7421cc1b39625e4500_MITEC_715S07_lec2b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: DOI, Chapter 1
 uid: e43b19c8-6392-bb74-21cc-1b39625e4500
