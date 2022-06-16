@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The section contains a brief description of a project completed by students
+  in Spring 2007, the final project proposal, and the final presentation. This project
+  is for an understandable, fun, and activity based 3-week curriculum to educate the
+  school-going population of underserved communities about tuberculosis-- the disease,
+  contraction, prevention, and treatment.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +15,7 @@ title: LearnTB
 uid: 3e899b4b-8b1a-6919-9be1-8e676180842b
 ---
 
-![learntb.jpg]({{< resource_file a53c546c-33e0-ddc4-5101-333ea1fa9ee7 >}})  
+{{< resource a53c546c-33e0-ddc4-5101-333ea1fa9ee7 >}}  
 
 LearnTB: Disseminating Appropriate TB Education in India
 
@@ -18,6 +23,6 @@ Over five million people suffer from tuberculosis (TB) in India and one thousand
 
 Specifically, we focus on public health education by targeting the primary school-aged community. These are members of society who are most likely to benefit from this knowledge and have access to an educational setting. We have developed an understandable, fun, and activity based 3-week curriculum to educate the school-going population of underserved communities about the TB disease, contraction, prevention, and treatment. Currently, our team has outstanding teaching experience and is capable of teaching in three languages: English, Hindi, and Bengali. LearnTB's partner organization in our TB education campaign is ASHA for Education, a group that sets up schools and additional informal learning centers in underserved communities in India. Currently, ASHA has over 700 educational projects which reach out to thousands of people and have widespread impact. We are working directly with the ASHA branch in the town of Natpurwa as well as the ASHA chapter in Boston to tailor our curriculum to the background and needs of the community with whom we intend to work and disseminate our curriculum to our target demographic.
 
-Final Proposal ([PDF]({{< baseurl >}}/resources/mitec_715s07_learntb))
+Final Proposal ({{% resource_link e77efb01-c347-7128-8a9b-e83cc03a1e2a "PDF" %}})
 
-Final Presentation ([PDF]({{< baseurl >}}/resources/mitec_715s07_learntb_pre))
+Final Presentation ({{% resource_link 82312dfc-7e9a-4a85-4bb6-6d23a777307f "PDF" %}})

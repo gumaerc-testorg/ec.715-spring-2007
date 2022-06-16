@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about prerequisites, the main text, case studies, course policies and requirements,
+  grading, competitions and web sites, and feedback.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -170,4 +173,4 @@ Competitions and Web sites
 Feedback
 --------
 
-This summary of the first year of D-Lab III, 2006, illustrates the success of students in applying the lessons taught in the course to contemporary global problems. ([PDF]({{< baseurl >}}/resources/mitec_715s07_06_review))
+This summary of the first year of D-Lab III, 2006, illustrates the success of students in applying the lessons taught in the course to contemporary global problems. ({{% resource_link 45fe0e98-4844-d010-16da-c0293127e401 "PDF" %}})

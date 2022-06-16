@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The section contains a brief description of a project completed by students
+  in Spring 2007, the final project proposal, and the final presentation. This project
+  is for a combination of a novel remote monitoring device and microfinance-based
+  incentives to help fight tuberculosis in disadvantaged areas.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -31,4 +35,4 @@ Our system is **a combination of a novel remote monitoring device and microfinan
 
 The New Dots system allows penetration of tuberculosis monitoring into disadvantaged areas where lack of infrastructure makes DOTS extremely difficult, if not impossible, to implement. Furthermore, we expect that our system will be so much more inexpensive and effective that it will be an attractive alternative for almost every organization that uses DOTS.
 
-New DOTS ([PDF]({{< baseurl >}}/resources/mitec_715s07_new_dots))
+New DOTS ({{% resource_link 68a374ca-1ccf-2ea9-225b-c44fd166b653 "PDF" %}})

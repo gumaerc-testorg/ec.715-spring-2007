@@ -1,16 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
 parent_type: CourseSection
-related_resources_text: ' [Lecture notes (PDF)](resources/mitec_715s07_notes08)'
+related_resources_text: ' [Lecture notes (PDF)](/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/resources/mitec_715s07_notes08)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Infinite Vision - Dr. Govindappa Venkataswamy
 uid: afab3fc6-30cd-5eb7-b2dd-e3bba23b8420
 video_files:
@@ -39,3 +42,6 @@ Cinematography and Editing by Ayla Gustafson
 Aravind Eye Care System  
 Director: Pavithra Krishnan  
 Cinematography: Ayla Gustafson
+
+
+

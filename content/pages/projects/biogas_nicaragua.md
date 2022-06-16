@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The section contains a brief description of a project completed by students
+  in Spring 2007, the final project proposal, and the final presentation. This project
+  is for an alternative Biogas energy solution for rural and urban populations in
+  developing countries.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +14,7 @@ title: Biogas Nicaragua
 uid: b2b6e259-29da-2e9b-6224-35db601d3007
 ---
 
-![biogas.jpg]({{< resource_file 95cd4355-299d-9d44-dfab-37be4430c4f5 >}})
+{{< resource 95cd4355-299d-9d44-dfab-37be4430c4f5 >}}
 
 Biogas Nicaragua.
 
@@ -22,6 +26,6 @@ Biogas Nicaragua has optimized the design and process of methane production from
 
 Biogas Nicaragua will work on the land of an ecological reserve/farm called Rancho Guadalupe to build a full-scale prototype, a small-scale version of which has already been designed and built at MIT, that reduces retention and start-up times and improves the energy production of existing biogas technologies currently implemented in Central America.
 
-Final Proposal ([PDF]({{< baseurl >}}/resources/mitec_715s07_biogas))
+Final Proposal ({{% resource_link a04c4828-4d4b-835f-620a-2e42c8d4b644 "PDF" %}})
 
-Final Presentation ([PDF]({{< baseurl >}}/resources/mitec_715s07_biogas_pre))
+Final Presentation ({{% resource_link 02393dc8-e8bf-8343-8b19-e8fabdd4cd40 "PDF" %}})

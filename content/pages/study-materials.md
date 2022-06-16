@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an alphabetical list of available course resources
+  and links to other resources on the web.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

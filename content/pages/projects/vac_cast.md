@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The section contains a brief description of a project completed by students
+  in Spring 2007, the final project proposal, and the final presentation. This project
+  is for a human-powered evacuation device for prosthetic devices.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -13,7 +16,7 @@ uid: 793b484b-8bc5-dded-a126-f2c72a16fa83
 Vac-Cast Prosthetics (IDEAS Competition Prize-winner $7,500)
 ------------------------------------------------------------
 
-![vac_cast.jpg]({{< resource_file 9fe26848-2d70-d780-61c5-25c8643c4142 >}})
+{{< resource 9fe26848-2d70-d780-61c5-25c8643c4142 >}}
 
 Vac-Cast prosthetics.
 
@@ -23,6 +26,6 @@ Fortunately, there is a novel sand-casting fitting technique that could increase
 
 Our community partner in this endeavor is Jaipur Foot Organization (JFO), the world leader in the fitting and manufacturing of prosthetic limbs. We have developed this device in collaboration with JFO affiliates in order to guarantee that our technology will meet the same needs currently supported by the electric vacuum machine. We will work with JFO to field test the device in August 2007 in Jaipur, India, with the expectation of continued collaboration to manufacture and distribute our vacuum device to JFO clinics worldwide.
 
-Final Proposal ([PDF]({{< baseurl >}}/resources/mitec_715s07_vaccast))
+Final Proposal ({{% resource_link 83b43145-2548-fb8b-b683-07a157259d8d "PDF" %}})
 
-Final Presentation ([PDF]({{< baseurl >}}/resources/mitec_715s07_vaccast_pre))
+Final Presentation ({{% resource_link 6b40a00d-3fe9-4f7d-5b73-6c427d193bd9 "PDF" %}})

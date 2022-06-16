@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The section contains a brief description of a project completed by students
+  in Spring 2007, the final project proposal, and the final presentation. This focus
+  of this project is to explore the use of sophisticated analytical techniques and
+  geographic information systems, coupled with the distribution of new cases recorded
+  at healthcare facilities, to identify sub-communities in rural areas of Lahore that
+  are at high risk for outbreaks.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -13,7 +19,7 @@ uid: 5c7181fb-d65a-af99-3b82-8352454c8be2
 Continuous Tracking and Analysis of Disease Outbreaks in Rural Areas of Lahore, Pakistan: Identifying Underserved Villages at High Risk for Outbreaks and Discovering Patterns Associated with Disease Incidence
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![datahealth.jpg]({{< resource_file 1adf809d-f444-6520-61f3-f100dddfcf4f >}})
+{{< resource 1adf809d-f444-6520-61f3-f100dddfcf4f >}}
 
 DataHealth Pakistan.
 
@@ -23,6 +29,6 @@ The focus of this innovation is to explore the use of sophisticated analytical t
 *   Supplement information about disease incidence in each region with detailed demographic and socioeconomic data collected by other government agencies and with data in geographic information systems (GIS) such as the ones that exist at MIT. This information allows for a means to relate communities and discover similarities that may be useful in pre-empting disease outbreaks and also for understanding factors that play a key role in the occurrence of a disease.
 *   Promote projects in high-risk sub-communities that might be able to spread awareness of protective mechanisms and simple therapies.
 
-Final Proposal ([PDF]({{< baseurl >}}/resources/mitec_715s07_lahore))
+Final Proposal ({{% resource_link 27acd907-c327-5e67-c1ed-ae48b4509def "PDF" %}})
 
-Final Presentation ([PDF]({{< baseurl >}}/resources/mitec_715s07_lahore_pre))
+Final Presentation ({{% resource_link 7a475514-3700-d9fd-4aff-0acb888ae295 "PDF" %}})
