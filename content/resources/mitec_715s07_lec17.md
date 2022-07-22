@@ -6,6 +6,7 @@ file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Diffusion of Innovation
 uid: 8d4934aa-249f-7303-c519-1994359fec36
 ---
 This is a resource file that contains information regarding diffusion of innovation.
-

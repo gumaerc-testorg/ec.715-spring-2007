@@ -6,6 +6,7 @@ file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sustainable Shelters
 uid: a9ea5710-325e-ec1f-36d7-88ce480103a2
 ---
 This is a resource file that contains information regarding sustainable shelters.
-

@@ -5,6 +5,7 @@ file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Test Water
 uid: e57a5abc-146b-e57c-8fad-4975516d8077
 ---
 This is a resource file that contains information regarding test water.
-

@@ -6,6 +6,7 @@ file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Report Draft V7.
 uid: 57c0e5d9-bbee-bd98-2101-772fe418a745
 ---
 This is a resource file that contains information regarding final report draft.
-

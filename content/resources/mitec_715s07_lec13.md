@@ -6,6 +6,7 @@ file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Source of Funding for Entrepreneurial Ventures
 uid: 61540853-59cc-f790-edb0-eccf220b5ac8
 ---
 This is a resource file that contains information regarding source of funding for entrepreneurial ventures.
-

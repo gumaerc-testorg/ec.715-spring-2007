@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -42,6 +43,4 @@ Cinematography and Editing by Ayla Gustafson
 Aravind Eye Care System  
 Director: Pavithra Krishnan  
 Cinematography: Ayla Gustafson
-
-
 

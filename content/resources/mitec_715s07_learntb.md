@@ -5,6 +5,7 @@ file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: LearnTB
 uid: e77efb01-c347-7128-8a9b-e83cc03a1e2a
 ---
 This is a resource file that contains information regarding learnTB.
-

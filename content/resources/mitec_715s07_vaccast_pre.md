@@ -6,6 +6,7 @@ file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Vac-Cast Prothetics
 uid: 6b40a00d-3fe9-4f7d-5b73-6c427d193bd9
 ---
 This is a resource file that contains information regarding vac-cast prothetics.
-
