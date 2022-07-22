@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on readings assigned from the course
+  texts for the lecture sessions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: eab3e808-fb7b-450e-f133-e1ac6dae6f05
 ---
@@ -163,7 +168,7 @@ Case study — participatory development and patent basics and confidentiality (
 {{< tdopen >}}
 
 
-Reading Guide ([PDF]({{< baseurl >}}/resources/mitec_715s07_participatry)) (Courtesy Tamira Gunzburg. Used with permission.)
+Reading Guide ({{% resource_link d498d98f-e91a-6016-6a8e-45c7f6713a50 "PDF" %}}) (Courtesy Tamira Gunzburg. Used with permission.)
 
 Chambers, Robert. "Participatory Rural Appraisal: Analysis of Experience." _World Development_ 22 (1994): 1253-1268.
 
@@ -210,7 +215,7 @@ Massachusetts Technology Collaborative. "Meeting the Needs of Technology Entrepr
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -250,12 +255,12 @@ Brophy, Paul C., and Rhonda N. Smith. "Mixed-Income Housing: Factors for Success
 Finance (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Mauro Nunez links/project ([PDF]({{< baseurl >}}/resources/mitec_715s07_mauro))
+Mauro Nunez links/project ({{% resource_link 09fcc8cc-88fc-1405-72ab-1ee4b612fd93 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 16
 {{< tdclose >}}
 {{< tdopen >}}
@@ -264,13 +269,13 @@ Case study — rural energy in developing countries (Zehra Ali)
 {{< tdopen >}}
 
 
-Reddy, Amulya K. N. "Energy Technologies and Policies for Rural Development." Chapter 4 in _Energy for Sustainable Development: A Policy Agenda_. Edited by Thomas B. Johansson, Jose Goldemberg. New York, NY: UNDP, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.amulya-reddy.org.in/Publication/1999_12_ET&PSRD01222002.pdf))
+Reddy, Amulya K. N. "Energy Technologies and Policies for Rural Development." Chapter 4 in _Energy for Sustainable Development: A Policy Agenda_. Edited by Thomas B. Johansson, Jose Goldemberg. New York, NY: UNDP, 2002. ([PDF](http://www.amulya-reddy.org.in/Publication/1999_12_ET&PSRD01222002.pdf))
 
 Richards, Peter. "[Renewable Development: New Strategies in Rural Electrification](http://www.renewableenergyworld.com/rea/magazine/reworld?Section=ARCHI&ARTICLE_ID=271584&VERSION_NUM=2&p=121%25203)."
 
 Williams, Neville. "[Chasing the Sun Around the World](https://imadeachange.wordpress.com/)."
 
-Steinberg, Douglas, Heidi Rahn, and Andy Horsnell. "Igniting Innovation: A Thought Leaders Strategy Forum." Lemelson Foundation Report, 2005. ([PDF]({{< baseurl >}}/resources/mitec_715s07_igniting)) (Courtesy of The Lemelson Foundation. Used with permission.)
+Steinberg, Douglas, Heidi Rahn, and Andy Horsnell. "Igniting Innovation: A Thought Leaders Strategy Forum." Lemelson Foundation Report, 2005. ({{% resource_link 57c0e5d9-bbee-bd98-2101-772fe418a745 "PDF" %}}) (Courtesy of The Lemelson Foundation. Used with permission.)
 
 
 {{< tdclose >}}
@@ -327,11 +332,11 @@ Case study — total sanitation (Ibrahim Kanan)
 {{< tdopen >}}
 
 
-"Making Sanitation Work." _Jal Manthan_ 7 (Rural Think Tank), (December 2002). The Water and Sanitation Program (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/08/20/000090341_20030820141923/Rendered/PDF/265360PAPER0WSP0Jal0manthan0no.07.pdf))
+"Making Sanitation Work." _Jal Manthan_ 7 (Rural Think Tank), (December 2002). The Water and Sanitation Program ([PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/08/20/000090341_20030820141923/Rendered/PDF/265360PAPER0WSP0Jal0manthan0no.07.pdf))
 
-Kar, Kamal. "Practical Guide to Triggering Community-Led Total Sanitation." Institute of Development Studies, 2005. ([PDF]({{< baseurl >}}/resources/mitec_715s07_total_sanita)) (Courtesy of Institute of Development Studies. Used with permission.)
+Kar, Kamal. "Practical Guide to Triggering Community-Led Total Sanitation." Institute of Development Studies, 2005. ({{% resource_link df566359-a4f2-0c68-a1c1-1f0a859e108e "PDF" %}}) (Courtesy of Institute of Development Studies. Used with permission.)
 
-"Igniting Change: Tackling the Sanitation Challenge." _Jal Manthan_ 5 (Rural Think Tank) (April 2002). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/07/26/000094946_03071603091561/Rendered/PDF/multi0page.pdf))
+"Igniting Change: Tackling the Sanitation Challenge." _Jal Manthan_ 5 (Rural Think Tank) (April 2002). ([PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/07/26/000094946_03071603091561/Rendered/PDF/multi0page.pdf))
 
 
 {{< tdclose >}}
@@ -359,7 +364,7 @@ Case study — human waste reuse (Xavier Gonzalez)
 {{< tdopen >}}
 
 
-Reed, Bob, and Rod Shaw. "Using Human Waste." _Technical Brief_ 63. Water and Environmental Health at London and Loughborough (WELL). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/63-using-human-waste.pdf))
+Reed, Bob, and Rod Shaw. "Using Human Waste." _Technical Brief_ 63. Water and Environmental Health at London and Loughborough (WELL). ([PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/63-using-human-waste.pdf))
 
 Adam, David. "Human Waste Used to Create Green Fuel." _The Guardian_, November 29, 2006.
 
