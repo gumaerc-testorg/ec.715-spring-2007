@@ -27,4 +27,3 @@ video_metadata:
   youtube_id: ''
 ---
 Illustration of the fabrication of sustainable shelters for post-earthquake reconstruction.
-

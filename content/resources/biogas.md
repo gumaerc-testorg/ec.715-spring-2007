@@ -25,4 +25,3 @@ video_metadata:
   youtube_id: ''
 ---
 Diagram of a novel biogas digester system prototype.
-

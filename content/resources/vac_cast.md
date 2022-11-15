@@ -25,4 +25,3 @@ video_metadata:
   youtube_id: ''
 ---
 Image of a human-powered evacuation device for vacuum-casting prosthetics.
-
