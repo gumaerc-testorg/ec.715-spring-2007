@@ -27,4 +27,3 @@ video_metadata:
   youtube_id: ''
 ---
 Example of child-targeted educational materials to raise awareness of tuberculosis.
-
