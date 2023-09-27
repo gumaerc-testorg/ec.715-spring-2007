@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 Image of a prototype device that utilized the waste heat from the exhaust of a civilian pick up truck in order to distill and purify water while the vehicle was idling or in use.
-

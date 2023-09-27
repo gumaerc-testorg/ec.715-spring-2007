@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 Illustration of how rural communities with similar socioeconomic characteristics that might be at increased risk for outbreaks and should be preemptively targeted through community efforts.
-
