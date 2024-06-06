@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding diffusion
   of innovations.
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/d6ba7d9e0d915c65619eb28386d38e55_MITEC_715S07_lec4.pdf
+file_size: 185940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

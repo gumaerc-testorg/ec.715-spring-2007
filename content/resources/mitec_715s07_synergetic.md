@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding synergetic.
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/728cebc6ccff941595457d91381462cb_MITEC_715S07_synergetic.pdf
+file_size: 167227
 file_type: application/pdf
 learning_resource_types:
 - Projects

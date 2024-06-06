@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding lecture note
   20.
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/044285a869ee106d01640a709819d427_MITEC_715S07_notes20.pdf
+file_size: 212594
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
