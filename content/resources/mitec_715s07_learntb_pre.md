@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding learnTB.
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/82312dfc7e9a4a854bb66d23a777307f_MITEC_715S07_learntb_pre.pdf
+file_size: 522585
 file_type: application/pdf
 learning_resource_types:
 - Projects
