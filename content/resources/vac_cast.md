@@ -3,6 +3,7 @@ content_type: resource
 description: Image of a human-powered evacuation device for vacuum-casting prosthetics.
 draft: false
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/9fe268482d70d78061c525c8643c4142_vac_cast.jpg
+file_size: 25755
 file_type: image/jpeg
 image_metadata:
   caption: ''
