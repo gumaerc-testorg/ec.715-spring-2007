@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding mauro.
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/09fcc8cc88fc140572ab1ee4b612fd93_MITEC_715S07_mauro.pdf
+file_size: 149398
 file_type: application/pdf
 learning_resource_types:
 - Readings

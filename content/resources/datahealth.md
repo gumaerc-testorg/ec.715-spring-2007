@@ -5,6 +5,7 @@ description: Illustration of how rural communities with similar socioeconomic ch
   through community efforts.
 draft: false
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/1adf809df444652061f3f100dddfcf4f_datahealth.jpg
+file_size: 69860
 file_type: image/jpeg
 image_metadata:
   caption: ''

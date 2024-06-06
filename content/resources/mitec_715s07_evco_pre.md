@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding EVCO presentation.
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/d6a84e795fe667ecef8948f3361de2b1_MITEC_715S07_evco_pre.pdf
+file_size: 271320
 file_type: application/pdf
 learning_resource_types:
 - Projects

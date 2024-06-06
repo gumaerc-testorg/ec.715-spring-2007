@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding energy rural.
 file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/16fb4f8e21d0ed62bff3fa14dae8bab6_MITEC_715S07_energy_rural.pdf
+file_size: 465555
 file_type: application/pdf
 learning_resource_types:
 - Readings
