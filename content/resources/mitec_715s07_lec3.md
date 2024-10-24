@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding IDEAS competition,
   deshpande center for innovation.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/5cb389f1f04d13a6d33e9af42bd2469f_MITEC_715S07_lec3.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/5cb389f1f04d13a6d33e9af42bd2469f_MITEC_715S07_lec3.pdf
 file_size: 144127
 file_type: application/pdf
 learning_resource_types:

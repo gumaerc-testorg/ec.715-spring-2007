@@ -4,7 +4,7 @@ description: Image of a prototype device that utilized the waste heat from the e
   of a civilian pick up truck in order to distill and purify water while the vehicle
   was idling or in use.
 draft: false
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/c4637c2cfc7d6750d518a9010b46debc_evco.jpg
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/c4637c2cfc7d6750d518a9010b46debc_evco.jpg
 file_size: 61469
 file_type: image/jpeg
 image_metadata:

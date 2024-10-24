@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding classic venture
   capital.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/d8c34e5973005311ee535c54a8a1f4b4_MITEC_715S07_lec2a.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/d8c34e5973005311ee535c54a8a1f4b4_MITEC_715S07_lec2a.pdf
 file_size: 529895
 file_type: application/pdf
 learning_resource_types:
