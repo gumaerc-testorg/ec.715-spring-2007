@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding sustainable
   shelters.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/a9ea5710325eec1f36d788ce480103a2_MITEC_715S07_sustnablshltr.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/a9ea5710325eec1f36d788ce480103a2_MITEC_715S07_sustnablshltr.pdf
 file_size: 753271
 file_type: application/pdf
 learning_resource_types:
