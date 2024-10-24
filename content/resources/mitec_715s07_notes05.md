@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture note
   5.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/6d4677075362f60bc76cfd90f36699f6_MITEC_715S07_notes05.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/6d4677075362f60bc76cfd90f36699f6_MITEC_715S07_notes05.pdf
 file_size: 137021
 file_type: application/pdf
 learning_resource_types:

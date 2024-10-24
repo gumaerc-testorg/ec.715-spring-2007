@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding test water.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/e57a5abc146be57c8fad4975516d8077_MITEC_715S07_testwater.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/e57a5abc146be57c8fad4975516d8077_MITEC_715S07_testwater.pdf
 file_size: 312591
 file_type: application/pdf
 learning_resource_types:
