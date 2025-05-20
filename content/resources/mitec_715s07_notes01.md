@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding big ideas.
-file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/df0df25bb21fd3fb768aefe58c776585_MITEC_715S07_notes01.pdf
+file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/df0df25bb21fd3fb768aefe58c776585_MITEC_715S07_notes01.pdf
 file_size: 205765
 file_type: application/pdf
 learning_resource_types:

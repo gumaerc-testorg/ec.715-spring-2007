@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lahore presentation.
-file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/7a4755143700d9fd4aff0acb888ae295_MITEC_715S07_lahore_pre.pdf
+file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/7a4755143700d9fd4aff0acb888ae295_MITEC_715S07_lahore_pre.pdf
 file_size: 351857
 file_type: application/pdf
 learning_resource_types:
