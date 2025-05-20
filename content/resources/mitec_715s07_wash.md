@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding washing machine.
-file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/64c125e807b407b459ab46594ba3d220_MITEC_715S07_wash.pdf
+file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/64c125e807b407b459ab46594ba3d220_MITEC_715S07_wash.pdf
 file_size: 203282
 file_type: application/pdf
 learning_resource_types:
