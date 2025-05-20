@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding source of
   funding for entrepreneurial ventures.
-file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/6154085359ccf790edb0eccf220b5ac8_MITEC_715S07_lec13.pdf
+file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/6154085359ccf790edb0eccf220b5ac8_MITEC_715S07_lec13.pdf
 file_size: 231326
 file_type: application/pdf
 learning_resource_types:

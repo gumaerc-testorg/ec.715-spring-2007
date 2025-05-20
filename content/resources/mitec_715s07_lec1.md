@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lec. 1. big
   ideas & introductions.
-file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/24f3c219a2f6ad52278706b6659c024e_MITEC_715S07_lec1.pdf
+file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/24f3c219a2f6ad52278706b6659c024e_MITEC_715S07_lec1.pdf
 file_size: 249752
 file_type: application/pdf
 learning_resource_types:
