@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding pure home
   water in northern ghana.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/9eef885ca301bea442054472fb3e5c51_MITEC_715S07_lec22.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/9eef885ca301bea442054472fb3e5c51_MITEC_715S07_lec22.pdf
 file_size: 4292210
 file_type: application/pdf
 learning_resource_types:

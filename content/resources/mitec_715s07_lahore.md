@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding continuous
   tracking and analysis of disease outbreaks in rural areas of lahore.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/27acd907c3275e67c1edae48b4509def_MITEC_715S07_lahore.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/27acd907c3275e67c1edae48b4509def_MITEC_715S07_lahore.pdf
 file_size: 188437
 file_type: application/pdf
 learning_resource_types:

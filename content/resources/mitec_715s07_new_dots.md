@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding new dots.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/68a374ca1ccf2ea9225bc44fd166b653_MITEC_715S07_new_dots.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/68a374ca1ccf2ea9225bc44fd166b653_MITEC_715S07_new_dots.pdf
 file_size: 135393
 file_type: application/pdf
 learning_resource_types:
