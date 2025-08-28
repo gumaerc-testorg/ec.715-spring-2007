@@ -76,7 +76,7 @@ Gates Foundation. [Global Health.](https://www.gatesfoundation.org/who-we-are/ge
 
 [Global Fund Brochure](https://www.theglobalfund.org/en/funding-model/). 2005.
 
-Global Fund. "[Force for Change](http://www.eldis.org/go/home&id=16437&type=Document#.VZr1Z0ZRKl4)." 2004.
+Global Fund. "Force for Change." 2004.
 
 [MIT IDEAS Competition](http://web.mit.edu/ideas/www/index.htm) and [Timeline](http://web.mit.edu/ideas/www/timeline.htm)
 
@@ -84,7 +84,7 @@ Global Fund. "[Force for Change](http://www.eldis.org/go/home&id=16437&type=Docu
 
 [MIT Deshpande Center Idea Stream](http://web.mit.edu/deshpandecenter/ideastream2006/showcase.html)
 
-Public Broadcasting Service (PBS). "[The New Heroes: Their Bottom Line is Lives.](https://www.lib.berkeley.edu/mrcvault/videographies/new-heroes-their-bottom-line-lives)" DVD 4-hour series hosted by Robert Redford.
+Public Broadcasting Service (PBS). "The New Heroes: Their Bottom Line Is Lives." DVD 4-hour series hosted by Robert Redford.
 
 [Root Cause](http://www.rootcause.org/)
 
