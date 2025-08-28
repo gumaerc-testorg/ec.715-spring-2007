@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding reading guide.
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/d498d98fe91a60166a8e45c7f6713a50_MITEC_715S07_participatry.pdf
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/d498d98fe91a60166a8e45c7f6713a50_MITEC_715S07_participatry.pdf
 file_size: 132072
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: Example of child-targeted educational materials to raise awareness of
   tuberculosis.
 draft: false
-file: /courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/a53c546c33e0ddc45101333ea1fa9ee7_learntb.jpg
+file: /ol-ocw-studio-app/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/a53c546c33e0ddc45101333ea1fa9ee7_learntb.jpg
 file_size: 94830
 file_type: image/jpeg
 image_metadata:
