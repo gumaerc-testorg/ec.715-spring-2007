@@ -26,11 +26,11 @@ Gallagher, K., ed. *Putting Development First: The Importance of Policy Space in
 
 Hart, Stuart L. *Capitalism at the Crossroads*. Upper Saddle River, NJ: Wharton School Publishing, 2005. ISBN: 9780131439870.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621243) Lerner, Steve. [*EcoPioneers*](https://mitpress.mit.edu/9780262621243). Cambridge, MA: MIT Press, 1998. ISBN: 9780262621243.
+{{% resource_link "67c59bef-dd76-451b-a215-136c08e85a31" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lerner, Steve. {{% resource_link "67c59bef-dd76-451b-a215-136c08e85a31" "*EcoPioneers*" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 9780262621243.
 
 Max-Neef, M. A. *From the Outside Looking in: Experiences in 'Barefoot Economics'*. London. NY: Zed Books, 1992. ISBN: 9781856491884.
 
-McDonough, William and Michael Braungart. [The Hannover Principles: Design for Sustainability](http://www.mcdonoughpartners.com/). William McDonnough + Partners and McDonnough Braumgart Design Chemistry, 2003.
+McDonough, William and Michael Braungart. {{% resource_link "42543158-2762-4a3e-9c3d-90f61b4c43d4" "The Hannover Principles: Design for Sustainability" %}}. William McDonnough + Partners and McDonnough Braumgart Design Chemistry, 2003.
 
 ———. *Cradle to Cradle: Remaking the Way We Make Things*. New York, NY: North Point Press, 2002. ISBN: 9780865475878.
 
@@ -52,7 +52,7 @@ Rahman, Aminur. *Women and Microcredit in Rural Bangladesh*. Oxford, UK: Westvie
 
 Sachs, Jeffrey. *The End of Poverty*. New York, NY: Penguin Press, 2006. ISBN: 9780143036586.
 
-Sawhney, Nitin. [PhD Thesis](http://www.media.mit.edu/video/view/nitin-2002-11-25). Read chapters 1 and 5.
+Sawhney, Nitin. {{% resource_link "aa51aebf-0de5-4544-a138-d28cf90fe580" "PhD Thesis" %}}. Read chapters 1 and 5.
 
 Schultze, Peter C. *Engineering within Ecological Constraints*. Washington, DC: National Academy Press, 1998. ISBN: 9780309051989.
 
@@ -66,30 +66,30 @@ Von Weizsacker, Ernst, Amory Lovins, and Hunter Lovins. *Factor Four: Doubling W
 
 ## Web and Other Resources
 
-[Acumen Fund](http://acumen.org/)
+{{% resource_link "0ea10372-ad4e-4d9f-baa9-d2cdcdadfe2f" "Acumen Fund" %}}
 
-[D-Lab III: Dissemination course site](http://stellar.mit.edu/S/course/SP/sp07/SP.723/)
+{{% resource_link "44e6c231-a350-4943-9d4c-58d41c6284ce" "D-Lab III: Dissemination course site" %}}
 
-[Fortune at the Bottom of the Pyramid](http://www.bus.umich.edu/FacultyResearch/ResearchCenters/ProgramsPartnerships/IT-Champions/default.htm#XMAP)
+{{% resource_link "93ab2073-f6d2-4631-a040-d207b0ea80dc" "Fortune at the Bottom of the Pyramid" %}}
 
-Gates Foundation. [Global Health.](https://www.gatesfoundation.org/who-we-are/general-information/leadership/global-health)
+Gates Foundation. {{% resource_link "fa70c481-7a8d-49a9-8b18-b140dc7bd671" "Global Health." %}}
 
-[Global Fund Brochure](https://www.theglobalfund.org/en/funding-model/). 2005.
+{{% resource_link "24eff7e2-4499-4515-94b6-f2141e99e190" "Global Fund Brochure" %}}. 2005.
 
 Global Fund. "Force for Change." 2004.
 
-[MIT IDEAS Competition](http://web.mit.edu/ideas/www/index.htm) and [Timeline](http://web.mit.edu/ideas/www/timeline.htm)
+{{% resource_link "146b8759-bb80-430c-9ee6-8a438ee270bc" "MIT IDEAS Competition" %}} and {{% resource_link "dc9cc592-449e-4f7d-9a27-b9df08fbccff" "Timeline" %}}
 
-[MIT $100K Competition](http://mit100k.org/): Entrepreneurship for Development Prize
+{{% resource_link "e5a130fb-9b60-4e74-96ef-af1af572471b" "MIT $100K Competition" %}}: Entrepreneurship for Development Prize
 
-[MIT Deshpande Center Idea Stream](http://web.mit.edu/deshpandecenter/ideastream2006/showcase.html)
+{{% resource_link "f4cb3d76-f4f1-4755-904b-16e7328be092" "MIT Deshpande Center Idea Stream" %}}
 
 Public Broadcasting Service (PBS). "The New Heroes: Their Bottom Line Is Lives." DVD 4-hour series hosted by Robert Redford.
 
-[Root Cause](http://www.rootcause.org/)
+{{% resource_link "1128a673-9223-4e02-bcf4-c82739b05b0a" "Root Cause" %}}
 
-[Stanford Social Innovation Review](https://ssir.org/)
+{{% resource_link "959658b0-94cd-4db5-9be9-35c1d4252cab" "Stanford Social Innovation Review" %}}
 
-[Business Association of Stanford Entrepreneurial Students](http://bases.stanford.edu/)
+{{% resource_link "6b5214a7-3439-41c9-a5e6-a7b5cb449f74" "Business Association of Stanford Entrepreneurial Students" %}}
 
-[World Bank Development Marketplace](https://www.worldbank.org/en/programs/development-marketplace-innovations-to-address-gender-based-violence)
+{{% resource_link "110e67b0-7852-408f-b830-dd12a7d591e3" "World Bank Development Marketplace" %}}
