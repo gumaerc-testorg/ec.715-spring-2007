@@ -62,7 +62,7 @@ We do not accept late work.
 
 ### Evaluation and Grading
 
-Assignments that are submitted on time will be assigned a letter grade ranging from A to D, and following the grading guidelines of MIT's {{% resource_link "d40c085f-2f76-4899-a355-937be49af4bc" "Academic Procedures and Institute Regulations" %}}.
+Assignments that are submitted on time will be assigned a letter grade ranging from A to D, and following the grading guidelines of MIT's [Academic Procedures and Institute Regulations](http://catalog.mit.edu/mit/regulations/).
 
 Assignment weights will be determined collaboratively by the end of the 3{{< sup "rd" >}} Week of class, with the only qualification being that the two most heavily weighted assignments must not exceed 45% of the total course grade. (Preliminary weighting shown)
 
@@ -163,12 +163,12 @@ Please advise the instructor early on of any special needs or disabilities so th
 Competitions and Web sites
 --------------------------
 
-1.  {{% resource_link "8e57c99a-9870-4e3d-8420-b2ebadbcdb1c" "IDEAS" %}} (All D-Lab III teams enter IDEAS competition as a minimum requirement)
-2.  {{% resource_link "1e26cb2c-b8b3-4a7c-9edd-45ff635796ff" "MIT $100K" %}} - Entrepreneurs for development track
-3.  {{% resource_link "fcadb1a3-2ce3-4701-ba8c-b1dc6b784810" "Deshpande Center IdeaStream" %}}
-4.  {{% resource_link "d046e381-215b-4e6e-82f6-4bdb6427a4b4" "Ignite Clean Energy" %}}
-5.  {{% resource_link "110e67b0-7852-408f-b830-dd12a7d591e3" "World Bank Development Marketplace" %}}
-6.  {{% resource_link "3e8cfed4-b7b2-430e-aa6d-481d79219eb4" "Environmental Protection Agency. \"P3: People, Prosperity and the Planet Student Design Competition for Sustainability" %}}."
+1.  [IDEAS](http://web.mit.edu/ideas/) (All D-Lab III teams enter IDEAS competition as a minimum requirement)
+2.  [MIT $100K](http://www.mit100k.org/) - Entrepreneurs for development track
+3.  [Deshpande Center IdeaStream](http://web.mit.edu/deshpandecenter/ideastream2007/)
+4.  [Ignite Clean Energy](http://www.ignitecleanenergy.com/)
+5.  [World Bank Development Marketplace](https://www.worldbank.org/en/programs/development-marketplace-innovations-to-address-gender-based-violence)
+6.  [Environmental Protection Agency. "P3: People, Prosperity and the Planet Student Design Competition for Sustainability](http://www.epa.gov/P3/)."
 
 Feedback
 --------
