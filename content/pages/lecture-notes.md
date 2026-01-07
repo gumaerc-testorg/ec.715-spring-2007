@@ -106,7 +106,7 @@ Co-evolutionary design for development
 {{< tdopen >}}
 
 
-Video: "{{% resource_link "7d8cdcfa-ef90-467f-91cb-7f1514081876" "Clean Water for 1 Billion People - the Nepal Water Project" %}}."
+Video: "[Clean Water for 1 Billion People - the Nepal Water Project](http://techtv.mit.edu/videos/581-span-classhighlightthespan-span-classhighlightnepalspan-span-classhighlightwaterspan-project---mit-graduation-video-2003)."
 
 Video: "Arsenic: Largest Case of Mass Poisoning in History."
 
@@ -127,7 +127,7 @@ Co-evolutionary design ({{% resource_link ae0c5bd8-8d55-aa2c-a750-de5f6b05033f "
 Case study — Muhammad Yunus: _Banker to the poor_
 {{< tdclose >}}
 {{< tdopen >}}
-Video: {{% resource_link "d355aac7-5ca1-49bd-88b5-f8a2c9e55340" "Muhammad Yunus" %}}
+Video: [Muhammad Yunus](http://nobelprize.org/mediaplayer/index.php?id=146)
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 1d2b6f97-8256-9c86-2bd7-a08fc42e4138 "PDF" %}})
@@ -380,7 +380,7 @@ Social marketing
 
 Pure Home Water in Northern Ghana ({{% resource_link 9eef885c-a301-bea4-4205-4472fb3e5c51 "PDF - 3.9 MB" %}})
 
-Video: "{{% resource_link "5118d701-9860-448f-96bf-eda9a74a2c3a" "Barefoot Women Solar Engineers" %}}."
+Video: "[Barefoot Women Solar Engineers](http://www.youtube.com/watch?v=8oS2iUFvdTE)."
 
 
 {{< tdclose >}}

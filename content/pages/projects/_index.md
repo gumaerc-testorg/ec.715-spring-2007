@@ -36,7 +36,7 @@ Tommy Ngai, Debu Sen, Heather Lukacs
 Innovative Drinking Water Treatment Technology for Bangladesh, West Bengal, and Nepal ({{% resource_link 958f70e4-14c2-c77e-44ec-5955e0dc38c4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "75957912-5d4a-4d62-a27c-5265e6f83468" "IDEAS 2002" %}}
+[IDEAS 2002](http://web.mit.edu/ideas/www/pastprojects_0102winners.htm#5)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +48,7 @@ Juhi Chandalia, Brittany Coulbert, Philip Hou, Jin Kim
 TestWaterCheap ({{% resource_link e57a5abc-146b-e57c-8fad-4975516d8077 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "5b9981b3-ca93-4282-bfb8-a333daa73a86" "IDEAS 2004" %}}
+[IDEAS 2004](http://web.mit.edu/ideas/www/pastprojects_0304winners.htm#testwater)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Teresa Baker, Stephanie Dalquist, Kimberly Harrison, Radu Raduta, Jessica Vechak
 Bicilavadora: the Pedal-Powered Washing Machine ({{% resource_link 64c125e8-07b4-07b4-59ab-46594ba3d220 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "dea15426-1f51-4b4e-a033-1d8d26ff5fb8" "IDEAS 2005" %}}
+[IDEAS 2005](http://web.mit.edu/ideas/www/pastprojects_0405winners.htm#bicilavadora)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +72,7 @@ Susan Murcott, Tommy Ngai
 Arsenic Biosand Filter: Sustainable Implementation of an Appropriate Household Drinking Water Filter for Rural Nepal ({{% resource_link ecd91a6a-bb1a-cca2-51ce-8290819f6de8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "4d2bbae8-0aaf-4598-9df2-3666d1068fc1" "World Bank Development Marketplace 2003" %}}
+[World Bank Development Marketplace 2003](http://documents.worldbank.org/curated/en/792191468779667442/World-Bank-Development-Marketplace-Project-funding-innovative-development-ideas-to-benefit-the-global-environment)
 {{< tdclose >}}
 
 {{< trclose >}}
